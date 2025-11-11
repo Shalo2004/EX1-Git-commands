@@ -1,0 +1,10 @@
+git init
+git add index.html
+git commit -m "Initial commit - added index.html"
+
+create github repo name GitLabExam
+
+git branch -M main
+git remote add origin https://github.com/Shalo2004/GitLabExam.git
+git push -u origin main
+
