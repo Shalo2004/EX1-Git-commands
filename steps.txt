@@ -1,4 +1,9 @@
 git init
+
+first time
+git config --global user.name Shalo2004
+git config --global user.email shalosharjan@karunya.edu.in
+
 git add index.html
 git commit -m "Initial commit - added index.html"
 
